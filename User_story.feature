@@ -1,4 +1,4 @@
-Features : Ajout d'une compagnie 
+Feature : Ajout d'une compagnie 
 En tant que Vendeur
 Je veux ajouter un voyage à une compagnie
 Afin de constituer une offre de voyages complète pour mes clients
